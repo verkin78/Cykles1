@@ -16,5 +16,9 @@ public class Main {
      //task4//
      for (int m = 10; m >= -10; m --)
          System.out.println(" Число " + m);
+
+     //task5//
+        for (int y = 1904; y <= 2096; y += 4)
+            System.out.println(y + " год является високосным ");
     }
  }
