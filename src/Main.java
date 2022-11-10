@@ -12,5 +12,9 @@ public class Main {
       //task3//
      for (int l = 2; l < 17; l = l + 2)
          System.out.println(" Число " + l);
+
+     //task4//
+     for (int m = 10; m >= -10; m --)
+         System.out.println(" Число " + m);
     }
-}
+ }
