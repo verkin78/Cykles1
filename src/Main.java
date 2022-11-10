@@ -27,5 +27,12 @@ public class Main {
 
      for (int j = 1; j <= 512; j *= 2)
          System.out.println(" Число " + j);
+
+     //task7//
+     int deposit = 29000;
+     int total = 0;
+     for (int month = 1; month <= 12; month ++)
+         {total = total + deposit;
+         System.out.println(" Месяц " + month + " сумма накоплений равна " + total + " рублей ");}
     }
  }
