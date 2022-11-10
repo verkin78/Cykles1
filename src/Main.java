@@ -8,5 +8,9 @@ public class Main {
         //task2//
       for (int k = 10; k >= 0; k --)
           System.out.println(" Число " + k);
+
+      //task3//
+     for (int l = 2; l < 17; l = l + 2)
+         System.out.println(" Число " + l);
     }
 }
