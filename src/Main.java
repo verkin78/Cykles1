@@ -24,5 +24,8 @@ public class Main {
         //task6//
      for (int n = 7; n <= 98; n += 7)
          System.out.println(" Число " + n);
+
+     for (int j = 1; j <= 512; j *= 2)
+         System.out.println(" Число " + j);
     }
  }
